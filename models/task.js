@@ -9,7 +9,7 @@ name: {
 },
 completed: {
     type:Boolean,
-    default: false,
+    // default: false,
 }
 })
 
